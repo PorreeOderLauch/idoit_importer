@@ -1,0 +1,47 @@
+[
+    {
+        "general": {
+            "sysid": "IDTPCBZ9",
+            "Object_title": "IDTPCBZ9"
+        },
+        "Host_address": {
+            "Hostname": "IDTPCBZ9"
+        },
+        "Accounting": {
+            "Inventory_number": 230003450,
+            "Delivery_date": "30.04.2020",
+            "Order_no": "DELL_450030319720200",
+            "Period_of_warranty": 3,
+            "Purchased": "DELL"
+        },
+        "Model": {
+            "Manufacturer": "DELL",
+            "Service Tag": "9GX1L33",
+            "Model": "Latitude 7400"
+        },
+        "CPU": {
+            "Title": "Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz",
+            "CPU_frequency": "1896 Mhz"
+        },
+        "Drive": {
+            "Capacity": "250 GB"
+        },
+        "Operating_system": {
+            "Description": "Windows 10 64-bit"
+        },
+        "Network": {
+            "Port": {
+                "MAC-address": "3448EDDD5BB6"
+            },
+            "Interface": {
+                "Mode": "Realtek USB GbE Family Controller"
+            }
+        },
+        "Sound card": {
+            "Title": "ALC3254"
+        },
+        "Memory": {
+            "Capacity": "8 GB"
+        }
+    }
+]
